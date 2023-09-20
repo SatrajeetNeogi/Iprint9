@@ -189,7 +189,7 @@ nav .links a:hover {
 
 /* ------------------------slider start -------------------------  */
 section.section {
-  background: url(../assets/images/Banner/iprint website.png);
+  background: url(assets/images/Banner/iprint website.png);
   background-attachment: fixed;
 }
 
@@ -487,7 +487,7 @@ section.section {
 /* <----------------!Contact!------------------> */
 
 .contacts {
-  background: url(assets/images/Banner/we-pride-bg%20.jpg);
+  background: url(/assets/images/Banner/we-pride-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
