@@ -194,7 +194,7 @@ nav {
   /* ------------------------Header End -------------------------  */
 
 .full-scape {
-    background-image: url(/assets/images/Banner/iprint\ website.png);
+    background-image: url(../images/Banner/iprint%20website.png);
     width: auto;
     background-position: center;
     background-size: cover;
