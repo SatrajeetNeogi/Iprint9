@@ -715,14 +715,14 @@ section.section {
   .sci {
     background: #333;
     right: 0;
-    width: 50px;
+    width: 35px;
     z-index: 100;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
   }
 
   .sci li {
-    margin-right: 15px;
+/*     margin-right: 25px; */
   }
 }
 
