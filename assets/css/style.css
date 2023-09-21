@@ -527,7 +527,7 @@ section.section {
 .card-contact p {
   margin-top: 20px;
   font-weight: 300;
-/*   letter-spacing: 2px; */
+  letter-spacing: 2px;
   max-height: 0;
   transition: 0.3s linear;
 /*   opacity: 0; */
