@@ -306,6 +306,9 @@ nav {
     color: white;
     padding: 0 20px;
     background: black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
 }
 
 /* .products .card .box{
